@@ -1,11 +1,7 @@
 # Ryan's First CS193 Homework
 
-- test
-- 
-- test1
-
-1. test
-2. test2
+- Only one lecture per week
+- Lots of useful information
 
 ## Welcome to GitHub Pages
 
@@ -16,7 +12,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 Syntax highlighted code block
 
