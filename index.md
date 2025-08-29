@@ -1,5 +1,6 @@
 # Ryan's First CS193 Homework
 
+Favorite things about CS193:
 - Only one lecture per week
 - Lots of useful information
 
